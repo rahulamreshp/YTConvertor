@@ -1,0 +1,6 @@
+os
+certifi
+ssl
+pytube
+moviepy
+psutil
